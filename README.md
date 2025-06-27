@@ -134,19 +134,7 @@ La aplicación está optimizada para:
 
 Utiliza un sistema de grid adaptativo y componentes que se reorganizan según el tamaño de pantalla.
 
-## 🔒 Consideraciones de Privacidad
 
-- **Datos Simulados**: La aplicación utiliza datos simulados para demostración
-- **Sin Recolección de Datos Personales**: No se almacena información del usuario
-- **Código Abierto**: Totalmente transparente y auditable
-
-## 🌍 Impacto Social
-
-Este proyecto tiene como objetivo:
-- **Democratizar la información ambiental**: Hacer accesible datos de calidad del aire
-- **Promover la conciencia ambiental**: Educar sobre los riesgos de la contaminación
-- **Empoderar a los ciudadanos**: Facilitar decisiones informadas sobre salud
-- **Fomentar acciones colectivas**: Impulsar mejoras en políticas ambientales
 
 ## 🤝 Contribuciones
 
@@ -162,17 +150,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 📞 Contacto y Soporte
-
-Para reportar problemas, sugerir mejoras o colaborar:
-- **Issues**: Usar el sistema de issues de GitHub
-- **Discusiones**: Participar en las discusiones del repositorio
-
-## 🙏 Agradecimientos
-
-- Organización Mundial de la Salud (OMS) por las directrices de ICA
-- Agencia de Protección Ambiental (EPA) por los estándares de referencia
-- Comunidad open source por las herramientas y librerías utilizadas
 
 ---
 
